@@ -1,11 +1,11 @@
 Hello there 🖐️
 
 I am currently learning 
-#### TSQL, C#, JavaScript, JQuery, HTML5 and CSS3. 💬
+💬#### TSQL, C#, JavaScript, JQuery, HTML5 and CSS3. 
 and trying to find my way around developing web applications with 
-#### ASP.NET, ASP.NET Core MVC and creating web APIs. 💬
+💬#### ASP.NET, ASP.NET Core MVC and creating web APIs. 
 My linkedin: 
-https://www.linkedin.com/in/selimcan-%C3%A7-0207761b2/?locale=en_US
+💬https://www.linkedin.com/in/selimcan-%C3%A7-0207761b2/?locale=en_US
 
 You can find my various works down here 👇
 
