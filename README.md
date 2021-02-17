@@ -7,6 +7,8 @@ and trying to find my way around developing web applications with
 My linkedin: 
 https://www.linkedin.com/in/selimcan-%C3%A7-0207761b2/?locale=en_US
 
+You can find my various works down here 👇
+
 
 
 <!--
