@@ -1,4 +1,4 @@
-## Languages I'm most comfortable with
+## Languages
 
 <p align="left">  
 <img alt="CSharp" width="50px" src="https://miro.medium.com/max/594/1*ymVNbsdd7KxHXHC4-LP7kw.png" />
@@ -7,7 +7,7 @@
 
 
 
-## Technologies I'm most familiar with
+## Technologies
 
 ![unity](https://i.imgur.com/cNdc0yF.png)
 <img alt="Git" width="50px" src="https://camo.githubusercontent.com/5c6a8ecf43c233e8f58f996816ecf95d5010d1ea5d2f91ccc80322d7ddbf956e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33352f3030303030302f6769742e706e67" />
