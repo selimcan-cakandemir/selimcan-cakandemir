@@ -6,3 +6,6 @@
 <img alt=".NET Core" width="50px" src="https://www.pngitem.com/pimgs/m/33-335825_-net-core-logo-png-transparent-png.png" />
 ![sql](https://user-images.githubusercontent.com/54549934/93969039-95deaf00-fd88-11ea-892a-cce00b080482.png)
 <img alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
+Jira
+Git
