@@ -3,8 +3,7 @@
 ![](slingermonkey.gif)
 ![](giftdeck.gif)
 ![](dinocatch.gif)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](skidcar.gif)
+![](skidcar.gif)
 ![](cutiepie.gif)
 
 
