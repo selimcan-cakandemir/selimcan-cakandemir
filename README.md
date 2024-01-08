@@ -6,3 +6,6 @@ Here is some of the games I've made :
 ![](slingermonkey.gif)
 ![](giftdeck.gif)
 
+Check out more of my stuff in here:
+
+https://selimcan.xyz/
