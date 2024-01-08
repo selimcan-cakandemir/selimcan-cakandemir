@@ -3,6 +3,4 @@ Hi, I'm Selimcan a gameplay programmer specializing in 2D games using Unity and 
 ![](squaregif.gif)
 ![](slingermonkey.gif)
 ![](giftdeck.gif)
-![](dinocatch.gif)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](skidcar.gif)
 
